@@ -9,7 +9,7 @@ import Contact from "./contact";
 function App() {
   return (
     <div className="App">
-      <p>Paola Sabatini</p>
+      <p id="title">Paola Sabatini Silveira</p>
       <Nav />
       <Welcome />
       <About />
